@@ -1,0 +1,13 @@
+ENVI
+description = {Adaptive Coherence Estimator of ISAC-FT Compensated Cube - HyperSeal_8.7.0  Jul 12, 2020}
+samples = 128
+lines   = 2000
+bands   = 108
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = BSQ
+sensor type = MAKO-2
+byte order = 1
+default stretch = linear
+band names = {1;1;1;2-Tetrafluoroethane,1;1;1-Trichloroethane,1;1;1-Trifluoroethane,1;1;2-Trichloro-1;2;2-trifluoroethane,1;1-Dichloro-1-fluoroethane,1;1-Dichloroethane,1;1-Difluoroethane,1;2;4-Trimethylbenzene,1;2-Dibromoethane,1;2-Dichloroethane,1;2-Dichlorotetrafluoroethane,1;3-Butadiene,1;3-Dichloropropene,1;4-Dichlorobenzene,1-Bromopropane,1-Butene,1-Propanol,2;2-Dichlor-1;1;1-trifluoroethane,2-Butene; cis and trans,2-Butoxyethanol,Acetaldehyde,Acetic acid,Acetone,Acrolein,Acrylonitrile,Ammonia,Amphetamine,a-Pinene,Benzene,Butane,Carbon Dioxide (HITRAN 200C),Carbon tetrachloride,Carbonyl sulfide,Chlorodifluoromethane,Chloroform,Chloropicrin,cis-2-Butene,Cycloheptane,Cycloheptene,Cyclohexane,Cyclohexene,Dichlorodifluoromethane,Dichlorofluoromethane; Freon-21,Dichloromethane,Dicyclopentadiene,Diethylether,Difluoromethane,Diisopropylamine,d-Limonene,Ethane,Ethanol,Ethene,Ethyl acetate,Ethyl benzene,Formaldehyde,Heptane,Hexane,Hexyl Acetate,Hydrogen cyanide,Hydrogen Peroxide,Hydrogen sulfide,Isobutane,Isobutene,Isoprene,Isopropanol,Methamphetamine,Methane (HITRAN 200C),Methanol,Methyl acetate,Methyl bromide,Methyl ethyl ketone,Methyl formate,Methyl isobutyl ketone,Methyl methacrylate,Methylamine,m-Xylene,Naphthalene,Nitric acid,Nitrogen dioxide,Nitrogen dioxide and dimer,Nitrogen trifluoride,Nitrous oxide,Octane,o-Xylene,Ozone,Pentafluoroethane,Pentane,Peroxy Acetyl Nitrate (main bands),Phosgene,Phosphine,Propane,Propene,Propyl acetate,p-Xylene,Styrene,Sulfur dioxide,Sulfur hexafluoride,Sulfur trioxide,Sulfuryl fluoride,tert-Butyl acetate,tert-Butyl methyl ether,Tetrachloroethylene,Tetrahydrofuran,Toluene,trans-2-Butene,Trichloroethylene,Trichlorofluoromethane,Vinyl chloride}

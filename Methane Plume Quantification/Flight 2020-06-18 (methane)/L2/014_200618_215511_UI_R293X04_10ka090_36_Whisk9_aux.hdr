@@ -1,0 +1,13 @@
+ENVI
+description = {Auxillary File (NESR [Arb. Units], Bad Pixels labeled with -1) - HyperSeal_8.7.0  Jul 12, 2020}
+samples = 128
+lines   = 128
+bands   = 5
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = BSQ
+sensor type = MAKO-2
+byte order = 1
+default stretch = 2.0% linear
+band names = {Bad Pixel Map, Gain Map, Offset Map, Cold NESR, Hot NESR}

@@ -1,0 +1,12 @@
+ENVI
+description = {Median Brightness Temperature of ISAC-FT Compensated Cube - HyperSeal_8.7.0  Jul 12, 2020}
+samples = 128
+lines   = 2000
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = BSQ
+sensor type = MAKO-2
+byte order = 1
+band names = {BTemp}
