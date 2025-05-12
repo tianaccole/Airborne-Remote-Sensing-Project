@@ -1,2 +1,1 @@
-This is the read me and i changed it! Yay!
-<img src='Methane Plume Quantification/Images/Martinez_Refinery_carbon_mapper_1.png'>
+This is my undergraduate research project from working in the Cohen Lab at UC Berkeley. I'm still fixing a couple things but it should be finalized by Friday.
